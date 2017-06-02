@@ -1,0 +1,15 @@
+body {
+  
+}
+
+.parent {
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+}
+
+.child {
+  display: inline-block;
+  height: 80px;
+  width: 80px;
+}
